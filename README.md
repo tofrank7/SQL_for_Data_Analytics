@@ -67,7 +67,7 @@ LIMIT 10;
 - The average yearly salary for Mantys stands out at $650,000, likely an outlier, as most other salaries fall between $180,000 to $250,000.
 - Job titles include a mix of traditional "Data Analyst" roles and more senior leadership positions like Director of Analytics and Principal Data Analyst, indicating salary scales increase significantly with seniority.
 
-![Top 10 Highest Paying Data Analyst Roles in 2023](assets\SQL_Project_Top_10_Highest_Paying_Data_Analyst_Jobs.png)
+![Top 10 Highest Paying Data Analyst Roles in 2023](assets/SQL_Project_Top_10_Highest_Paying_Data_Analyst_Jobs.png)
 
 *This chart shows the average yearly salary for the top 10 highest-paying remote data analyst job listings.*
 
@@ -111,7 +111,7 @@ ORDER BY
 - SQL, Python, and Tableau appear most frequently across the top-paying remote data analyst job listings.
 - These tools are foundational for data extraction, analysis, and visualization, making them highly sought-after by employers hiring for senior and well-compensated roles.
 
-![Skill Count for Top 10 Data Analyst Roles in 2023](assets\SQL_Project_Skill_Count_for_Top_10_Highest_Paying_Cropped.png)
+![Skill Count for Top 10 Data Analyst Roles in 2023](assets/SQL_Project_Skill_Count_for_Top_10_Highest_Paying_Cropped.png)
 
 *This chart shows the frequency of specific technical skills mentioned across the top 10 highest-paying remote data analyst job listings.*
 
